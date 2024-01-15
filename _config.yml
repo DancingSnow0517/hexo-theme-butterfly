@@ -30,7 +30,7 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-bilibili: fab fa-bilibili || bilibili || '#24292e'
+  fab fa-bilibili: https://space.bilibili.com/302121711 || bilibili || '#24292e'
   fab fa-github: https://github.com/DancingSnow0517 || Github || '#24292e'
   fab fa-twitter: https://twitter.com/DancingSnow0517 || Twitter || '#24292e'
   fab fa-telegram: https://t.me/dancingsnow0517 || Telegram || '#24292e'
