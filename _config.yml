@@ -31,11 +31,11 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  fab fa-bilibili: https://space.bilibili.com/302121711 || bilibili || '#24292e'
-  fab fa-github: https://github.com/DancingSnow0517 || Github || '#24292e'
-  fab fa-twitter: https://twitter.com/DancingSnow0517 || Twitter || '#24292e'
-  fab fa-telegram: https://t.me/dancingsnow0517 || Telegram || '#24292e'
-  fas fa-envelope: mailto:dj1121149616@gmail.com || EMail || '#24292e'
+  fab fa-bilibili: https://space.bilibili.com/302121711 || bilibili || '#7ECDF7'
+  fab fa-github: https://github.com/DancingSnow0517 || Github || '#7ECDF7'
+  fab fa-twitter: https://twitter.com/DancingSnow0517 || Twitter || '#7ECDF7'
+  fab fa-telegram: https://t.me/dancingsnow0517 || Telegram || '#7ECDF7'
+  fas fa-envelope: mailto:dj1121149616@gmail.com || EMail || '#7ECDF7'
 
 # Image (圖片設置)
 # --------------------------------------
@@ -646,7 +646,7 @@ text_align_justify: false
 background:
 
 # Footer Background
-footer_bg: false
+footer_bg: '#E9AFB9'
 
 # Add mask to header or footer (为 header 或 footer 添加黑色半透遮罩)
 mask:
